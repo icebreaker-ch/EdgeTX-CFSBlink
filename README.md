@@ -7,7 +7,7 @@ The following parameters can be configured:
 - Color for on state when blinking (default WHITE)
 - off-time when blinking (default 500 ms)
 - on-time when blinking (defult 500 ms)
-##Installation
+## Installation
 - Copy the CFSBlink folder into your SD-Card SCRIPTS folder.
 - Rename and edit the file `template.lua` on your requests (e.g. `myblink.lua`) and copy the file into the FUNCTIONS FOlder
 - The structure on your radios SD-Card should look like this now:
